@@ -1,0 +1,8 @@
+.preview-canvas {
+  align-self: center;
+  background-color: rgb(75, 19, 13);
+}
+
+.texture-field {
+  background-color: rgba(255, 166, 0, 0.5);
+}
